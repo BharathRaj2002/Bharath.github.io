@@ -1,5 +1,3 @@
-# Bharath MR – Software Testing Engineer
-
 ## 👋 About Me
 I'm a passionate and detail-oriented Software Testing Engineer with hands-on experience in both manual and automated testing. Skilled in ensuring software quality using tools like Selenium, FireFlink, JIRA, and Bugzilla, I thrive in collaborative environments where Agile methodologies are key to successful development. I’m driven by curiosity and a commitment to refining systems for excellence.
 
